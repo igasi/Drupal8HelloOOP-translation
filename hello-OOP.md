@@ -5,7 +5,7 @@ Introducción
 ------------
 
 _Enviado por effulgentsia el 2 de agosto de 2013 a las 06:50:32 PM_
-Hola mundo, Este es mi primera entrada de blog. Para las personas que no me conoces, soy [effulgentsia]: https://drupal.org/user/78040 en drupal.org. Trabajo en [Acquia's OCTO group]: http://buytaert.net/announcing-the-office-of-the-cto-at-acquia, colaboro bastante en el CORE de Drupal, escribiendo y revisando parches.
+Hola mundo, Este es mi primera entrada de blog. Para las personas que no me conoces, soy [effulgentsia]: https://drupal.org/user/78040 en drupal.org. Trabajo en [Acquia's OCTO group]:http://buytaert.net/announcing-the-office-of-the-cto-at-acquia, colaboro bastante en el CORE de Drupal, escribiendo y revisando parches.
 
 Trabajando en Drupal 8 y asistiendo a varios eventos Drupal, eh conocido a un buen número de desarrolladores de módulos Drupal 7 con la inquietud acerca de que se necesita aprender para ser unos desarrolladores de módulos Drupal 8 existosos.
 
